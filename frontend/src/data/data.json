@@ -1,0 +1,45 @@
+{
+    "counselors": [
+      {
+        "id": 1,
+        "name": "Mayurica Chauhan",
+        "image": "https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg",
+        "description": "Experienced career counselor specializing in tech careers.",
+        "price": "₹400/hour",
+        "skills": ["Tech Careers", "Resume Building", "Interview Preparation"]
+      },
+      {
+        "id": 2,
+        "name": "Saumya Khansa",
+        "image": "https://prod.ucwe.capgemini.com/in-en/wp-content/uploads/sites/18/2022/09/EXPERIENCED-PROFESSIONALS-1.jpg",
+        "description": "Expert in helping students choose the right career path.",
+        "price": "₹320/hour",
+        "skills": ["Career Guidance", "Education Planning", "Job Market Analysis"]
+      },
+      {
+        "id": 3,
+        "name": "Akanksh Singh",
+        "image": "https://tapmicel.com/wp-content/uploads/2021/12/15_u1ron3.jpg",
+        "description": "Provides guidance for career transitions and development.",
+        "price": "₹800/hour",
+        "skills": ["Career Transitions", "Professional Development", "Leadership"]
+      },
+      {
+        "id": 4,
+        "name": "Rajat Narwal",
+        "image": "https://emeritus.org/in/wp-content/uploads/sites/3/2022/09/12-Benefits-of-Online-Learning-for-Working-Professionals.jpg.optimal.jpg",
+        "description": "Specializes in executive coaching and leadership development.",
+        "price": "₹450/hour",
+        "skills": ["Executive Coaching", "Leadership Development", "Strategic Planning"]
+      },
+      {
+        "id": 5,
+        "name": "Pallavi Kapoor",
+        "image": "https://img.freepik.com/free-photo/smiley-businesswoman-posing-outdoors-with-arms-crossed-copy-space_23-2148767055.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725321600&semt=ais_hybrid",
+        "description": "Focuses on resume building and job search strategies.",
+        "price": "₹295/hour",
+        "skills": ["Resume Building", "Job Search Strategies", "Interview Techniques"]
+      }
+    ]
+  }
+  
